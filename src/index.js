@@ -18,7 +18,7 @@ class Square extends React.Component {
     }
   
     render() {
-      const status = 'Next player: X';
+      const status = 'Nextz player: X';
   
       return (
         <div>
